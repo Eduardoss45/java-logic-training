@@ -10,6 +10,7 @@ public class Ex22ModuloDeUmNumero {
             System.out.print("Digite um número: ");
             int numero = scanner.nextInt();
             int res;
+            
             if (numero > 0) {
                 res = numero;
                 System.out.printf("O modulo de %d é %d", numero, res);
