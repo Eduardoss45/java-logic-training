@@ -2,7 +2,7 @@ package br.com.eduardo.logic.condicionais;
 
 import java.util.Scanner;
 
-public class Ex28 {
+public class Ex28EVogalOuConsoante {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Digite uma letra: ");
