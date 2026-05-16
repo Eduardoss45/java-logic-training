@@ -15,15 +15,10 @@ public class Ex28EVogalOuConsoante {
             }
 
             switch (letra) {
-                case 'a':
-                case 'e':
-                case 'i':
-                case 'o':
-                case 'u':
+                case 'a', 'e', 'i', 'o', 'u' ->
                     System.out.println("É vogal.");
-                    break;
 
-                default:
+                default ->
                     System.out.println("É consoante.");
             }
         }
