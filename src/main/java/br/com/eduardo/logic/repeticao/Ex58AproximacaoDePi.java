@@ -29,7 +29,7 @@ public class Ex58AproximacaoDePi {
 
             double pi = Math.cbrt(32 * soma);
 
-            System.out.printf("π ≈ %.8f%n", pi);
+            System.out.printf("PI (+-) = (%.8f...)", pi);
         }
     }
 }
