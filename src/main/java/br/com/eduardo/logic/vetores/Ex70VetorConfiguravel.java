@@ -1,7 +1,5 @@
 package br.com.eduardo.logic.vetores;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Scanner;
 
 // * 70. Escreva um programa que carregue um array com tamanho variável. O tamanho máximo do array é de 100 posições (carga de array com sentinela).
