@@ -2,7 +2,6 @@
 
 package br.com.eduardo.logic.strings;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class Ex77InversaoDeString {
