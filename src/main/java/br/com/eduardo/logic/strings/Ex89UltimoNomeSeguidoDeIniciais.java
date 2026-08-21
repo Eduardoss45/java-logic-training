@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // * 89. Escreva um programa em Java, que gere uma string composta pelo último nome, seguido de virgula e as iniciais dos demais nomes (em ordem), seguida de ponto. Por exemplo, se a string entrada for “Gabriel Garcia Marquez”, a string gerada deve ser “Marquez,G.G.”.
 
-public class Ex89UlimoNomeSeguidoDeIniciais {
+public class Ex89UltimoNomeSeguidoDeIniciais {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             System.out.print("Digite seu nome completo: ");
