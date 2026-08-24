@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // * 92. Elabore um programa em Java, para ler valores e armazená-los em uma matriz 5 x 5. Após o programa deverá responder se a matriz é ou não uma matriz simétrica. Uma matriz simétrica possui a mesma composição de valores abaixo e acima da diagonal principal.
 
-public class Ex92 {
+public class Ex92MatrizSimetrica {
     public static void main(String[] args) {
         try (Scanner scanner = new Scanner(System.in)) {
             int[][] matriz = new int[5][5];
